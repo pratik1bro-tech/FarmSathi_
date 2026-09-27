@@ -1,0 +1,8 @@
+{
+  "name": "FarmSathi",
+  "description": "AI-powered Agri-Advisory, Soil Health, Telemetry, NPK & Irrigation, Mandi Market Intelligence, Buyer Linkage & Logistics Ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
